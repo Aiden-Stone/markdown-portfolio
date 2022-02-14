@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have programmed in these languages:
+* _Python_
+* __Lua__
+* ___C++___
